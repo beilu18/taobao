@@ -20,4 +20,4 @@
 
 创建项目：scrapy startproject 项目名
 
-启动项目：scrapy crawl 项目
+启动项目：scrapy crawl 爬虫工程名
