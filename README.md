@@ -14,3 +14,8 @@
 
 4、dbDelete文件
 读取IPdaili爬取到数据ip，判断ip是否可用，删除无效ip代理
+
+
+爬虫使用的是scrapy框架
+创建项目：scrapy startproject 项目名
+启动项目：scrapy crawl 项目
