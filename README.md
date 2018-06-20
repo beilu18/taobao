@@ -17,5 +17,7 @@
 
 
 爬虫使用的是scrapy框架
+
 创建项目：scrapy startproject 项目名
+
 启动项目：scrapy crawl 项目
